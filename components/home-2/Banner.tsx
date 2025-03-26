@@ -135,7 +135,7 @@ const Banner = () => {
               <div className="col-md-6">
               <div className="btn-item">
                   <Link
-                    href="game"
+                    href="#games"
                     className="d-center py-14 position-relative">
                     <span className="d-center w-100">
                       explore our games
